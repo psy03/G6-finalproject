@@ -14,7 +14,7 @@
 
 |Categories|Content|
 |--|--|
-|Meeting Contend||
-|Setting Position|Hyewon- Sinyeong- Soyeon- |
+|Meeting Content|We're coding Gartic Phone, the digital version of Telestrations, for educational use in our class.|
+|Setting Position|Hyewon-Teacher, Sinyeong-Presenter, Soyeon-Student |
 |--|--|
 |--|--|
