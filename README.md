@@ -15,8 +15,6 @@
 |Categories|Content|
 |--|--|
 |Meeting Contend||
-|Setting Position|Hyewon- 
-Sinyeong- 
-Soyeon- |
+|Setting Position|Hyewon- Sinyeong- Soyeon- |
 |--|--|
 |--|--|
