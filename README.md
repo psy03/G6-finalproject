@@ -16,8 +16,6 @@
 |--|--|
 |Meeting Content|Trying to make code Gartic Phone, the digital version of Telestrations (Draw the word on the card, guess what others drew, and draw the guesses), for educational use in our class.|
 |Setting Position|Hyewon - Teacher <br> Sinyeong - Presenter <br> Soyeon - Student |
-|--|--|
-|--|--|
 
 ### 5/28 (third meeting)
 |**Categories**|**Content**|
