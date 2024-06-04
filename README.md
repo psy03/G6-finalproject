@@ -20,6 +20,6 @@
 |--|--|
 
 ### 5/28 (third meeting)
-|--|--|
+|**Categories**|**Content**|
 |--|--|
 |app|https://886d51e09355dfb85e.gradio.live|
