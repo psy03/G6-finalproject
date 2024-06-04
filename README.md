@@ -27,7 +27,8 @@
 |**Categories**|**Content**|
 |--|--|
 |Meeting Content|Designing the overall content of the lesson plan to be conducted.|
-
+<br>
+<br>
 ## 👻 Our Story
 ### The Circle of Discovery
 
