@@ -20,8 +20,9 @@
 ### 5/28 (Third Meeting)
 |**Categories**|**Content**|
 |--|--|
-|Meeting Content|Setting up the code to create a new educational tool app, similar to Gartic Phone. <br> (Student 1) Inputs the prompt and draws the prompt -> (Student 2) Writes the answer -> (Together) Checks the answer mode.|
+|Meeting Content|Setting up the code to create a new educational tool app, similar to Gartic Phone.|
 |App|https://886d51e09355dfb85e.gradio.live|
+|Game Processing|(Student 1) Inputs the prompt and draws the prompt -> (Student 2) Writes the answer -> (Together) Checks the answer mode.|
 
 ### 6/04 (Fourth Meeting)
 |**Categories**|**Content**|
