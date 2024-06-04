@@ -21,7 +21,7 @@
 |**Categories**|**Content**|
 |--|--|
 |Meeting Content|Setting up the code to create a new educational tool app, similar to Gartic Phone.|
-|app|https://886d51e09355dfb85e.gradio.live|
+|App|https://886d51e09355dfb85e.gradio.live|
 
 ### 6/04 (Fourth Meeting)
 |**Categories**|**Content**|
