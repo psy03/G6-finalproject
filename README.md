@@ -53,13 +53,10 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 
 ## 👽 Class Progression
 
+|Process|Content|
 |--|--|
-|--|--|
-|Watch the video|Review the 'content' of the last lesson 3-minute video + additional explanation by the teacher|
-|Content Review (Multiple Choice)|Extended review of the material covered in the previous lesson<br>(About 5 questions)|
-|Vocabulary review (Telestration)|Students' vocabulary selection + teacher's prepared vocabulary collection<br>⤿ 20 words are drawn, and a telestration is performed based on those words<br>**3.1. Word draw**<br>Teacher selects words from the text in advance<br>⤿ Collect students' opinions (difficult words, memorable words, etc.)<br>⤿ Students select vocabulary words + Teacher takes a collection of words and enters them into a code to draw words.<br>→ 20 or so words are drawn, and the telestation begins.<br>**3.2. Telestation 1** (Teacher → Student)<br>Teacher demonstrates, students participate.<br>Pick a word and set a timer for 30 seconds to 1 minute<br>→ Teacher starts drawing a picture on the shared screen and students start guessing.<br>At the end of 30 seconds, have everyone answer together.<br>**3.3. Telestation 2** (Pair)<br>2 people or group (2 people is preferred)<br>+Teacher encourages quick progress with a 30-second limit|
-|Grammar Review (Essay)|Review the 'grammar' that students learned in the last chapter.<br>
->*Relative pronouns
->*Participle phrases
-<br>Blank sentences in the text and outside passages with important grammar.|
-|Finalize|Summarize, review, and finalize|
+|1. Watch the video|Review the 'content' of the last lesson 3-minute video + additional explanation by the teacher|
+|2. Content Review (Multiple Choice)|Extended review of the material covered in the previous lesson<br>(About 5 questions)|
+|3. Vocabulary review (Telestration)|Students' vocabulary selection + teacher's prepared vocabulary collection<br>⤿ 20 words are drawn, and a telestration is performed based on those words<br>**3.1. Word draw**<br>Teacher selects words from the text in advance<br>⤿ Collect students' opinions (difficult words, memorable words, etc.)<br>⤿ Students select vocabulary words + Teacher takes a collection of words and enters them into a code to draw words.<br>→ 20 or so words are drawn, and the telestation begins.<br>**3.2. Telestation 1** (Teacher → Student)<br>Teacher demonstrates, students participate.<br>Pick a word and set a timer for 30 seconds to 1 minute<br>→ Teacher starts drawing a picture on the shared screen and students start guessing.<br>At the end of 30 seconds, have everyone answer together.<br>**3.3. Telestation 2** (Pair)<br>2 people or group (2 people is preferred)<br>+Teacher encourages quick progress with a 30-second limit|
+|4. Grammar Review (Essay)|Review the 'grammar' that students learned in the last chapter.<br>ㆍRelative pronouns<br>ㆍParticiple phrases<br>Blank sentences in the text and outside passages with important grammar.|
+|5. Finalize|Summarize, review, and finalize|
