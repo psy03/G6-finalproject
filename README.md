@@ -15,7 +15,7 @@
 |Categories|Content|
 |--|--|
 |Meeting Content|Trying to make code Gartic Phone, the digital version of Telestrations (Draw the word on the card, guess what others drew, and draw the guesses), for educational use in our class.|
-|Setting Position|Hyewon - Teacher <br> Sinyeong - Presenter <br> Soyeon - Student |
+|Setting Presentation Position|Hyewon - Teacher <br> Sinyeong - Presenter <br> Soyeon - Student |
 
 ### 5/28 (Third Meeting)
 |**Categories**|**Content**|
@@ -27,6 +27,7 @@
 |**Categories**|**Content**|
 |--|--|
 |Meeting Content|Designing the overall content of the lesson plan to be conducted.|
+|Overall Roles|Hyewon - Summary of Meeting Contents and Tool Design <br> Sinyeong - Tool Design and Development <br> Soyeon - Posting of Meeting Contents and Tool Design  |
 <br>
 <br>
 
