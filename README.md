@@ -1,5 +1,4 @@
 # 🧸 G6-finalproject
-<br>
 
 ## 🌭 Meeting
 ### 5/14 (First Meeting)
