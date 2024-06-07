@@ -62,6 +62,8 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 |5. Finalize|Summarize, review, and finalize|
 
 ## 🎬 Video Link
+|Link|
+|--|
 |https://youtu.be/0kFjS6w_AQQ|
 
 ## ☀️ Content Quiz
