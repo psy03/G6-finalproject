@@ -80,7 +80,7 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 |--|--|
 |--|--|
 
-|**QR Code**|--|
+
 
 
 
