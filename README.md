@@ -66,15 +66,18 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 
 ## ☀️ Content Quiz
 
-|**Link**|--|
+**|**Link**|--|**
+
 |**QR Code**|--|
 
 ## 🌈 Scribbudies
 |**Link**|--|
+
 |**QR Code**|--|
 
 ## 🐾 Grammar Quiz
 |**Link**|--|
+
 |**QR Code**|--|
 
 
