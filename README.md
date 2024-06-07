@@ -65,12 +65,17 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 |https://youtu.be/0kFjS6w_AQQ|
 
 ## ☀️ Content Quiz
-|--|--|
+
+|**Link**|--|
+|**QR Code**|--|
 
 ## 🌈 Scribbudies
-|--|--|
+|**Link**|--|
+|**QR Code**|--|
 
 ## 🐾 Grammar Quiz
-|--|--|
+|**Link**|--|
+|**QR Code**|--|
+
 
 
