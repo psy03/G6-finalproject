@@ -51,12 +51,12 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 <br>
 <br>
 
-## 👽 Class Progression
+## 👽 Class Progression(simplification)
 
 |Process|Content|
 |--|--|
 |1. Watch the video|Review the 'content' of the last lesson 3-minute video + additional explanation by the teacher|
-|2. Content Review (Multiple Choice)|Extended review of the material covered in the previous lesson<br>(About 5 questions)|
+|2. Content Review (With Multiple Choice)|Extended review of the material covered in the previous lesson<br>(About 5 questions)|
 |3. Vocabulary review (Telestration)|Students' vocabulary selection + teacher's prepared vocabulary collection<br>⤿ 20 words are drawn, and a telestration is performed based on those words<br><br>**3.1. Word draw**<br>Teacher selects words from the text in advance<br>⤿ Collect students' opinions (difficult words, memorable words, etc.)<br>⤿ Students select vocabulary words + Teacher takes a collection of words and enters them into a code to draw words.<br>→ 20 or so words are drawn, and the telestation begins.<br><br>**3.2. Telestation 1** (Teacher → Student)<br>Teacher demonstrates, students participate.<br>Pick a word and set a timer for 30 seconds to 1 minute<br>→ Teacher starts drawing a picture on the shared screen and students start guessing.<br>At the end of 30 seconds, have everyone answer together.<br><br>**3.3. Telestation 2** (Pair)<br>2 people or group (2 people is preferred)<br>+Teacher encourages quick progress with a 30-second limit|
 |4. Grammar Review (Essay)|Review the 'grammar' that students learned in the last chapter.<br>ㆍRelative pronouns<br>ㆍParticiple phrases<br>Blank sentences in the text and outside passages with important grammar.|
 |5. Finalize|Summarize, review, and finalize|
@@ -82,7 +82,9 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 |--|--|
 |--|--|
 
-
-
-
+## 👽 Class Progression(detail)
+|Process|Content|
+|--|--|
+|1. Watch the video|1.1 Introduce the video to the students. <br> 1.2 Briefly summarize the content of the video. <br> 1.3 Ask the students questions and encourage a discussion.|
+|2.Content Review (With Multiple Choice)|2.1 Introduce the online questions to check understanding. <br> 2.2 Conduct online questions. <br> 2.3 Conduct online questions.|
 
