@@ -68,17 +68,17 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 
 ## ☀️ Content Quiz
 
-|**Link**|**QR Code**|
+| **Link** | **QR Code** |
 |--|--|
 |--|--|
 
 ## 🌈 Scribbudies
-|**Link**|**QR Code**|
+| **Link** | **QR Code** |
 |https://97502f95a8f1b6ed34.gradio.live|https://github.com/psy03/G6-finalproject/blob/main/frame-2.png|
 |--|--|
 
 ## 🐾 Grammar Quiz
-|**Link**|**QR Code**|
+| **Link** | **QR Code** |
 |https://878d30e8ddb6143bd6.gradio.live|https://github.com/psy03/G6-finalproject/blob/main/frame-3.png|
 |--|--|
 
