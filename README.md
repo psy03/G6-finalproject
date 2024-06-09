@@ -79,7 +79,7 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 
 ## 🐾 Grammar Quiz
 |**Link**|**QR Code**|
-|--|--|
+|https://878d30e8ddb6143bd6.gradio.live|--|
 |--|--|
 
 ## 👩🏻‍🏫 Class Progression(detail)
