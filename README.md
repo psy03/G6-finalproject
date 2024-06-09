@@ -117,3 +117,27 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 |3. Vocabulary review (With **Scribuddies**)- 20 min|3.1  Introduce the new vocabulary learning app and explain the activity. <br> [🌈**Scribuddies**](https://5317fc508ad3ce8cff.gradio.live/) <br> 3.2 Teacher demonstrates the app with a student. <br> 3.3 Pair up the students. <br> <br> **3.3.1. Word draw** <br>Teacher selects words from the text in advance<br>⤿ Collect students' opinions (difficult words, memorable words, etc.)<br>⤿ Students select vocabulary words + Teacher takes a collection of words and enters them into a code to draw words.<br>→ 20 or so words are drawn, and the telestation begins.<br>**3.3.2. Scribuddies** (Teacher → Student)<br>Teacher demonstrates, students participate.<br>Pick a word and set a timer for 30 seconds to 1 minute<br>→ Teacher starts drawing a picture on the shared screen and students start guessing.<br>At the end of 30 seconds, have everyone answer together.<br>**3.3.3. Scribuddies 2** (Pair)<br>2 people or group (2 people is preferred)<br>+Teacher encourages quick progress with a 30-second limit<br> <br> 3.4 Inform students to ask for help if needed. <br> 3.5 Teacher monitors the students' activities and provides support as needed.  |
 |4. Grammar Review (With *subjective questions*)- 10 min|4.1 Wrap up the vocabulary learning activity and introduce the next activity. <br> 4.2 Introduce the new grammar understanding activity. <br>  4.3 Explain how to use the app and the activity process. <br> [🐾**Grammar Quiz**](https://878d30e8ddb6143bd6.gradio.live) <br> 4.4 Have time solving questions. <br> 4.5 After students finish the questions, go through the solutions together. <br> 4.6 Take questions from students and explain any unclear points.  |
 |5. Finalize- 5 min|5.1 Wrap up the grammar understanding activity. <br> 5.2 Briefly summarize the story learned today. <br> 5.3 Review the vocabulary and grammar learned in the activities. <br> 5.4 Inform students about the next lesson. <br> 5.5 Take questions from students and conclude the lesson. |
+
+
+## 🕶 Important Words
+|**English**|**Korean**| 
+|--|--|
+| Baghdad | 바그다드 |
+| House of Wisdom | 지혜의 집 |
+| scholar | 학자 |
+| manuscripts | 원고, 사본 |
+| cosmos | 우주 |
+| numbers | 숫자 |
+| India | 인도 |
+| śūnya, zero | 슈냐 (제로) |
+| calculation | 계산 |
+| origins | 기원 |
+| implications | 함의, 영향 |
+| astronomy | 천문학 |
+| placeholder | 자리 표시자 |
+| possibility | 가능성 |
+| treatises | 논문 |
+| algorithms | 알고리즘 |
+| algebra | 대수학 |
+| numerical understanding | 숫자 이해 |
+| legacy | 유산 |
