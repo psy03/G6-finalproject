@@ -29,6 +29,12 @@
 |--|--|
 |Meeting Content|Designing the overall content of the lesson plan to be conducted.|
 |Overall Roles|Hyewon - Summary of Meeting Contents and Tool Design <br> Sinyeong - Tool Design and Development <br> Soyeon - Posting of Meeting Contents and Tool Design  |
+
+### 6/10 (Fifth Meeting)
+|**Categories**|**Content**|
+|--|--|
+|Meeting Content|--|
+|Overall Roles|--|
 <br>
 <br>
 
