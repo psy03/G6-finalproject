@@ -69,7 +69,7 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 ## ☀️ Content Quiz
 
 | **Link** | **QR Code** |
-|--|--|
+|https://59ada3695a2745df2b.gradio.live/|--|
 |--|--|
 
 ## 🌈 Scribbudies
