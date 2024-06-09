@@ -51,7 +51,8 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 <br>
 <br>
 ## 👽 Important Words
-|**English**|**Korean**|
+|**English**|**Korean**| 
+|--|--|
 | Baghdad | 바그다드 |
 | House of Wisdom | 지혜의 집 |
 | scholar | 학자 |
