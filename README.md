@@ -82,7 +82,7 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 |--|--|
 |--|--|
 
-## 👽 Class Progression(detail)
+## 👩🏻‍🏫 Class Progression(detail)
 |Process|Content|
 |--|--|
 |1. Watch the video|1.1 Introduce the video to the students. <br> [🎬Video Link](https://youtu.be/0kFjS6w_AQQ) <br> 1.2 Briefly summarize the content of the video. <br> 1.3 Ask the students questions and encourage a discussion.|
