@@ -50,7 +50,7 @@ Years turned into decades, and Idris found himself looking back on a life dedica
  Though time had weathered his body, Idris's spirit remained undaunted. For his life's work had not only illuminated the path for future scholars but had also imbued the world with the boundless potential that zero brought to the realm of mathematics. And as he gazed upon the horizon, Idris knew that his legacy would endure, a testament to the infinite possibilities that lay within the embrace of zero.
 <br>
 <br>
-## 👽 Important Words
+## 🕶 Important Words
 |**English**|**Korean**| 
 |--|--|
 | Baghdad | 바그다드 |
