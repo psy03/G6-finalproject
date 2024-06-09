@@ -69,18 +69,21 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 ## ☀️ Content Quiz
 
 | **Link** | **QR Code** |
-|https://59ada3695a2745df2b.gradio.live/|https://github.com/psy03/G6-finalproject/blob/main/frame-4.png|
 |--|--|
+|https://59ada3695a2745df2b.gradio.live/|https://github.com/psy03/G6-finalproject/blob/main/frame-4.png|
+
 
 ## 🌈 Scribbudies
 | **Link** | **QR Code** |
-|https://5317fc508ad3ce8cff.gradio.live/|https://github.com/psy03/G6-finalproject/blob/main/frame-5.png|
 |--|--|
+|https://5317fc508ad3ce8cff.gradio.live/|https://github.com/psy03/G6-finalproject/blob/main/frame-5.png|
+
 
 ## 🐾 Grammar Quiz
 | **Link** | **QR Code** |
-|https://878d30e8ddb6143bd6.gradio.live|https://github.com/psy03/G6-finalproject/blob/main/frame-3.png|
 |--|--|
+|https://878d30e8ddb6143bd6.gradio.live|https://github.com/psy03/G6-finalproject/blob/main/frame-3.png|
+
 
 ## 👩🏻‍🏫 Class Progression(detail)
 |Process|Content|
