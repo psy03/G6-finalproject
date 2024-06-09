@@ -74,7 +74,7 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 
 ## 🌈 Scribbudies
 |**Link**|**QR Code**|
-|https://886d51e09355dfb85e.gradio.live|--|
+|https://ef0a136b1a820ad3ce.gradio.live|--|
 |--|--|
 
 ## 🐾 Grammar Quiz
