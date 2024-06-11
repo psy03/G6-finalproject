@@ -80,6 +80,8 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 | legacy | 유산 |
 <br>
 <br>
+<br>
+<br>
 
 ## 👽 Class Progression(simplification)
 
