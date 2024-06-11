@@ -1,4 +1,5 @@
 # 🧸 G6-finalproject
+Message from Miran (There's no code page ipynb. You need to include a code page to show the codes for all the applications used in your lesson.) Do this by next week. (0611 4:30PM)
 
 ## 🌭 Meeting
 ### 5/14 (First Meeting)
