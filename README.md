@@ -126,4 +126,4 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 
 
 ## 🕶 Important Words
-[📒 Word List](https://github.com/psy03/G6-finalproject/blob/main/word%20list1.png)
+[📒 Word List](https://github.com/psy03/G6-finalproject/blob/main/word%20list3.png)
