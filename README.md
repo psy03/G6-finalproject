@@ -81,7 +81,6 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 <br>
 <br>
 <br>
-<br>
 
 ## 👽 Class Progression(simplification)
 
