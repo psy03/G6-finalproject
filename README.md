@@ -80,7 +80,6 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 | legacy | 유산 |
 <br>
 <br>
-<br>
 
 ## 👽 Class Progression(simplification)
 
@@ -114,7 +113,8 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 | **Link** | **QR Code** |
 |--|--|
 |https://878d30e8ddb6143bd6.gradio.live|https://github.com/psy03/G6-finalproject/blob/main/frame-3.png|
-
+<br>
+<br>
 
 ## 👩🏻‍🏫 Class Progression(detail)
 |Process|Content|
