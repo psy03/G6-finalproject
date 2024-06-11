@@ -106,7 +106,7 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 ## 🌈 Scribbudies
 | **Link** | **QR Code** |
 |--|--|
-|https://ae5ba4be6cb6a85747.gradio.live|https://github.com/psy03/G6-finalproject/blob/main/frame-5.png|
+|https://ae5ba4be6cb6a85747.gradio.live|https://github.com/psy03/G6-finalproject/blob/main/qrcode_114312038_f3a23ae5b8a0d70c3092df25ea02a403.png|
 
 
 ## 🐾 Grammar Quiz
