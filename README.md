@@ -128,3 +128,4 @@ Years turned into decades, and Idris found himself looking back on a life dedica
 
 ## 🕶 Important Words
 [📒 Word List](https://d47277bf9231869d7e.gradio.live)
+(Added word pronunciation)
