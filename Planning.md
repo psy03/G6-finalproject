@@ -33,4 +33,4 @@
 ### 6/9 (Fifth Meeting)
 |**Categories**|**Content**|
 |--|--|
-|Meeting Content|Designing the overall content of the lesson plan to be conducted.|
+|Meeting Content|Finalized and checked the readme file and script, and previewed the class demonstration. Updated links and tried it out to see how it performs.|
