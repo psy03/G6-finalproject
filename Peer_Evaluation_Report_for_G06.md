@@ -6,7 +6,7 @@ After analyzing the feedback from your presentation, here is a summary highlight
 + **Effective Collaboration and Role Representation:** The clear representation of student roles and the emphasis on group collaboration were highlighted as major strengths. This approach ensured that students could easily follow along and participate actively. The collaboration aspect was particularly effective in promoting teamwork and engagement during the lesson.
 + **Innovative Use of Technology with Scribuddies App:** The development and use of the Scribuddies app stood out as a significant achievement. This app, inspired by the game Telestrations, allowed students to draw and guess words, making the learning process interactive and enjoyable. The feedback emphasized the app's potential to enhance student engagement and provide a novel way to learn vocabulary through gaming elements.
 
-Overall, the feedback indicates that our session was well-received, with particular praise for the creative activities, effective collaboration, and innovative use of technology. These strengths contributed significantly to the positive reception and effectiveness of the lesson.
+Overall, the feedback indicates that your presentation was well-received, with particular praise for the creative activities, effective collaboration, and innovative use of technology. These strengths contributed significantly to the positive reception and effectiveness of the lesson.
 
 ## [1] Quantitative summary of each aspect (Q1~Q10)
 
