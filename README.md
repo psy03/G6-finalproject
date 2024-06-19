@@ -6,16 +6,11 @@ Message from Miran
 
 ## 🌭 Planning
 
+|Student Name|Presentation Position|Overall Roles|
 |--|--|--|
-|--|--|--|
-|--|--|--|
-|--|--|--|
-|--|--|--|
-Setting Presentation Position | Overall Roles
->* Hyewon - Teacher | Summary of Meeting Contents and Tool Design
->* Sinyeong - Presenter | Tool Design and Development
->* Soyeon - Student | Posting of Meeting Contents and Tool Design
-
+|Hyewon|Teacher|Summary of Meeting Contents and Tool Design|
+|Sinyeong|Presenter|Tool Design and Development|
+|Soyeon|Student|Posting of Meeting Contents and Tool Design|
 
 <br>
 <br>
