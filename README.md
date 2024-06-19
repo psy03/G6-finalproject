@@ -4,15 +4,12 @@ Message from Miran
 1. There's no code page ipynb. You need to include a code page to show the codes for all the applications used in your lesson.) Do this by next week. (0611 4:30PM)
 2. This page should be rearranged only for the purpose of the lesson related materials. Move the log content (your planning, meeting info) to a separate md file, and name it as "Planning.md". Also link this info file somewhere in this page.
 
-## 🌭 Meeting
+## 🌭 Planning
 
-Setting Presentation Position
->* Hyewon - Teacher
->* Sinyeong - Presenter
->* Soyeon - Student
-
-Overall Roles
-Hyewon - Summary of Meeting Contents and Tool Design <br> Sinyeong - Tool Design and Development <br> Soyeon - Posting of Meeting Contents and Tool Design
+Setting Presentation Position | Overall Roles
+>* Hyewon - Teacher | Summary of Meeting Contents and Tool Design
+>* Sinyeong - Presenter | Tool Design and Development
+>* Soyeon - Student | Posting of Meeting Contents and Tool Design
 
 
 <br>
