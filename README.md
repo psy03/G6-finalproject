@@ -4,6 +4,8 @@ Message from Miran
 1. There's no code page ipynb. You need to include a code page to show the codes for all the applications used in your lesson.) Do this by next week. (0611 4:30PM)
 2. This page should be rearranged only for the purpose of the lesson related materials. Move the log content (your planning, meeting info) to a separate md file, and name it as "Planning.md". Also link this info file somewhere in this page.
 
+<br>
+
 ## 🐕 Planning
 
 [🌭 Planning.md Link](https://github.com/psy03/G6-finalproject/blob/d4a16b31e3e74fe264b9bee281ef792a916c4f1b/Planning.md)
@@ -14,7 +16,6 @@ Message from Miran
 |Sinyeong|Presenter|Tool Design and Development|
 |Soyeon|Student|Posting of Meeting Contents and Tool Design|
 
-<br>
 <br>
 
 ## 👻 Our Story
