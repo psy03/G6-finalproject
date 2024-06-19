@@ -1,4 +1,4 @@
-# Planning
+# 🧸 Planning
 
 ## 🌭 Meeting
 ### 5/14 (First Meeting)
