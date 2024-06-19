@@ -1,10 +1,10 @@
-# 💙 Peer Evaluation & Presentation Review for Group 6 (1PM, 0619, by MK316)
+# 💙 Peer Evaluation & Presentation Review for Group 6 (1:50PM, 0619, by MK316)
 
 After analyzing the feedback from your presentation, here is a summary highlighting the key strengths of Group 6.
 
 + **Creative and Engaging Activities:** The use of drawing activities to match words was highly appreciated. This interactive approach not only captured students' interest but also provided a fun way to reinforce vocabulary learning. The activity encouraged students to think creatively about how to depict words visually, aiding in memory retention and understanding.
 + **Effective Collaboration and Role Representation:** The clear representation of student roles and the emphasis on group collaboration were highlighted as major strengths. This approach ensured that students could easily follow along and participate actively. The collaboration aspect was particularly effective in promoting teamwork and engagement during the lesson.
-+ **Innovative Use of Technology with Scribuddies App: The development and use of the Scribuddies app stood out as a significant achievement. This app, inspired by the game Telestrations, allowed students to draw and guess words, making the learning process interactive and enjoyable. The feedback emphasized the app's potential to enhance student engagement and provide a novel way to learn vocabulary through gaming elements.
++ **Innovative Use of Technology with Scribuddies App:** The development and use of the Scribuddies app stood out as a significant achievement. This app, inspired by the game Telestrations, allowed students to draw and guess words, making the learning process interactive and enjoyable. The feedback emphasized the app's potential to enhance student engagement and provide a novel way to learn vocabulary through gaming elements.
 
 Overall, the feedback indicates that our session was well-received, with particular praise for the creative activities, effective collaboration, and innovative use of technology. These strengths contributed significantly to the positive reception and effectiveness of the lesson.
 
