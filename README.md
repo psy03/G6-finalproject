@@ -10,6 +10,7 @@ Message from Miran
 
 [🌭 Planning.md Link](https://github.com/psy03/G6-finalproject/blob/d4a16b31e3e74fe264b9bee281ef792a916c4f1b/Planning.md)
 <br>
+<br>
 
 ## 📱 App Code
 [🔎 Application Code.md Link](https://github.com/psy03/G6-finalproject/blob/main/Application%20Code(Presentation)ipynb)
