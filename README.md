@@ -10,11 +10,6 @@ Message from Miran
 
 [🌭 Planning.md Link](https://github.com/psy03/G6-finalproject/blob/d4a16b31e3e74fe264b9bee281ef792a916c4f1b/Planning.md)
 
-|Student Name|Presentation Position|Overall Roles|
-|--|--|--|
-|Hyewon|Teacher|Summary of Meeting Contents and Tool Design|
-|Sinyeong|Presenter|Tool Design and Development|
-|Soyeon|Student|Posting of Meeting Contents and Tool Design|
 
 <br>
 
