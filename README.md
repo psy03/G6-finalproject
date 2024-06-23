@@ -15,6 +15,7 @@ Message from Miran
 ## 📱 App Code
 [🔎 Application Code.md Link](https://github.com/psy03/G6-finalproject/blob/main/Application%20Code(Presentation)ipynb)
 <br>
+<br>
 
 ## 👻 Our Story
 ### The Circle of Discovery
