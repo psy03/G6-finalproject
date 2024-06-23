@@ -1,4 +1,14 @@
 # 🧸 Planning
+<br>
+
+## Overall Role
+
+|Student Name|Presentation Position|Overall Roles|
+|--|--|--|
+|Hyewon|Teacher|Summary of Meeting Contents and Tool Design|
+|Sinyeong|Presenter|Tool Design and Development|
+|Soyeon|Student|Posting of Meeting Contents and Tool Design|
+<br>
 
 ## 🌭 Meeting
 ### 5/14 (First Meeting)
