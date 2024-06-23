@@ -8,7 +8,7 @@ Message from Miran
 
 ## 🐕 Planning
 
-[🌭 Planning.md Link](https://github.com/psy03/G6-finalproject/blob/d4a16b31e3e74fe264b9bee281ef792a916c4f1b/Planning.md)
+[🌭 Planning.md Link](https://github.com/psy03/G6-finalproject/blob/main/Planning.md)
 <br>
 <br>
 
