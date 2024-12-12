@@ -1,7 +1,7 @@
-### new version of scribuddies
+### New version of scribuddies
 [scribuddies](https://0d682bc431f12adb1c.gradio.live/)
 <br>
-## Voca learning
+### Voca learning
 [Voca Learning](https://ecbe10d63ba616ba05.gradio.live/)
 <br>
 ### Content Review
