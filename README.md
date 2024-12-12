@@ -1,4 +1,4 @@
-### New version of scribuddies
+### New version-scribuddies
 [scribuddies](https://0d682bc431f12adb1c.gradio.live/)
 <br>
 ### Voca learning
