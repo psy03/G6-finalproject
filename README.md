@@ -1,3 +1,12 @@
+# new version of scribuddies
+[scribuddies](https://0d682bc431f12adb1c.gradio.live/)
+<br>
+# Voca learning
+[Voca Learning](https://ecbe10d63ba616ba05.gradio.live/)
+<br>
+# Content Review
+[Content Review](https://820ef6dea5aea347ee.gradio.live/)
+
 # 🧸 G6-finalproject
 
 Message from Miran 
