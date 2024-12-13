@@ -1,5 +1,5 @@
 ### 🌟 New version-scribuddies
-[scribuddies](https://0d682bc431f12adb1c.gradio.live/)
+[scribuddies](https://2d526e99d085d413c3.gradio.live/)
 <br>
 ### 💞 Voca learning
 [Voca Learning](https://ecbe10d63ba616ba05.gradio.live/)
