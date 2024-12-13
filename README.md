@@ -1,3 +1,6 @@
+#### Colab Page
+[Colab](https://colab.research.google.com/drive/1O8xC57n1VDEpOLbq7Spj-ZMyn0yBE8IL)
+
 ### 🌟 New version-scribuddies
 [scribuddies](https://2d526e99d085d413c3.gradio.live/)
 <br>
